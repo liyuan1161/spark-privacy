@@ -2,7 +2,7 @@
 
 # Playglow Privacy Policy
 
-Effective date: September 30, 2026
+Effective date: October 1, 2026
 
 Developer: Ledi
 
@@ -36,6 +36,26 @@ Your game records, knowledge exploration progress, and unfinished drawings are s
 
 The App asks for "Add to Photos" permission only when you choose to save a drawing image or a stroke animation video to your photo library. This permission is used only to write the work you choose into your photo library. The App doesn't read your photos, and saving to Photos doesn't upload anything; a drawing is uploaded only if you separately send it with Draw for You.
 
+## Camera and Microphone
+
+The App uses the camera or microphone only while you're using a feature that needs it. Images and sound are processed on your device in real time. They are never uploaded to the developer's or any third party's servers, and never sent to Firebase.
+
+The camera is used to: pick colors from the scene in Color Lab; take a photo and cut out the subject on your device in Sticker Maker; read scene brightness and exposure settings in Light Meter; follow your hand for air gestures in Knowledge Blocks, Free Draw, and Rhythm Flash; and power eye control (see "Face Data"). Apart from stickers you choose to save to your sticker collection, which stay on your device, the App doesn't keep camera images.
+
+The microphone is used to: measure loudness in real time in Sound Meter, Shout Squad, and Sense Pilot, and recognize nearby sounds on your device in Sound Detective, none of which record audio; and record a short clip in Voice Changer to play back with effects. That clip is stored only on your device and is deleted when you leave the page. A sticker or voice clip is handed to another app only when you tap Share and choose that app.
+
+## Face Data (TrueDepth Camera and ARKit Face Tracking)
+
+**What is collected:** Only when you turn on eye control in Knowledge Blocks or Big Fish, or start a round of Sense Pilot, does the App use the TrueDepth camera through Apple's ARKit face tracking (on devices without TrueDepth, the front camera). The App reads only two kinds of values: where you are looking (ARKit's gaze point) and how closed each eye is. It immediately turns them into "looking left, center, or right" and "eyes closed or open". The App doesn't read or store face images, video, depth maps, face meshes, or any other face geometry.
+
+**How it's used:** Only to control those games in real time, such as moving and rotating blocks, steering the fish toward where you look, and raising a shield when you close your eyes. Face data isn't used to identify or authenticate you, and isn't used for advertising, marketing, analytics, profiling, or tracking.
+
+**Storage, retention, and deletion:** All processing happens in memory on your device in real time. Each frame's values are overwritten by the next frame as soon as the screen updates. Face tracking stops immediately when you turn off eye control, leave the game, or the App goes to the background. Face data is never written to device storage, never stored in iCloud, and never uploaded to any server, so there is no retention period and nothing to delete.
+
+**Sharing:** Face data is never shared with, sold to, or disclosed to any third party, including Google Firebase. ARKit face tracking runs entirely on your device, so Apple doesn't receive it either.
+
+You can turn off eye control at any time, or turn off the App's camera access in iPhone Settings > Privacy & Security > Camera. The other ways to play work without eye control.
+
 ## Playglow Plus Subscriptions
 
 Playglow Plus is offered through Apple In-App Purchase as monthly and yearly auto-renewable subscriptions. Payment, renewal, free trials, and refunds are all handled by Apple, and the App doesn't collect or store your payment information. The App only reads from Apple whether a subscription is active, which plan it is, and when it expires, to show your membership status on your device; this isn't uploaded to the developer's servers. The plan and purchase results are sent to Firebase Analytics as anonymous statistics (see "Usage Statistics and Crash Reports"). You can manage or cancel your subscription at any time in iPhone Settings, under your Apple Account > Subscriptions.
@@ -56,7 +76,7 @@ For privacy questions, please contact the developer, Ledi, through the support c
 
 # 趣光隐私政策
 
-生效日期：2026 年 9 月 30 日
+生效日期：2026 年 10 月 1 日
 
 开发者：乐迪
 
@@ -89,6 +109,26 @@ For privacy questions, please contact the developer, Ledi, through the support c
 ## 照片权限
 
 仅当你主动选择将画作图片或笔迹动画视频保存到系统相册时，本 App 会请求“添加到照片”权限。该权限只用于把你选择的作品写入系统照片图库；本 App 不会读取你的照片，不会因为保存到相册而上传作品；只有另行使用「画给你」发送时才上传所选画作。
+
+## 相机与麦克风
+
+本 App 只在你打开相关功能时使用相机或麦克风。画面和声音都在本机实时处理，不会上传到开发者或任何第三方的服务器，也不会发送给 Firebase。
+
+相机用于：「色彩实验室」识别画面颜色；「抠图贴纸」拍照并在本机抠出主体；「测光表」读取画面亮度和曝光参数；「俄罗斯方块」「自由画画」「节奏闪击」的隔空手势识别手的位置；以及眼控（见“面部数据”）。除了你主动保存到贴纸收藏的贴纸图片保存在本机外，本 App 不保存相机画面。
+
+麦克风用于：「分贝计」「大嗓门消防队」「三感星航」实时测量音量，「声音侦探」在本机识别周围的声音，这些功能都不录音；「变声器」录下一小段声音用于变声回放，录音只保存在本机，离开页面即删除。只有你主动点击分享时，所选贴纸或变声音频才会交给你选择的 App。
+
+## 面部数据（原深感摄像头与 ARKit 面部追踪）
+
+**收集什么**：只有你在「俄罗斯方块」或「大鱼吃小鱼」中打开眼控，或开始一局「三感星航」时，本 App 才通过 Apple ARKit 面部追踪使用原深感（TrueDepth）摄像头（不支持原深感的设备使用前置摄像头）。本 App 只读取两类数值：视线方向（ARKit 提供的注视点）和左右眼的闭眼程度，并立即换算成“向左、居中或向右看”和“是否闭眼”。本 App 不读取、不保存面部图像、视频、深度图、面部网格或其他面部几何数据。
+
+**用途**：仅用于上述游戏的实时操控，例如移动和旋转方块、让小鱼游向你看的方向、闭眼开启护盾。面部数据不用于识别或验证身份，不用于广告、营销、数据分析或用户画像，也不用于跟踪。
+
+**存储、保留与删除**：所有处理都在设备内存中实时完成，每一帧的数值在更新画面后即被下一帧覆盖丢弃；关闭眼控、离开游戏或 App 进入后台时，面部追踪立即停止。面部数据不写入设备存储，不存入 iCloud，也不上传到任何服务器，因此没有保留期，也没有需要删除的数据。
+
+**共享**：面部数据不会与任何第三方（包括 Google Firebase）共享、出售或披露。ARKit 面部追踪完全在设备上运行，Apple 也不会收到这些数据。
+
+你可以随时关闭眼控，或在 iPhone「设置」>「隐私与安全性」>「相机」中关闭本 App 的相机权限；不使用眼控不影响其他玩法。
 
 ## 趣光会员订阅
 
