@@ -1,3 +1,59 @@
+[English](#playglow-privacy-policy) · [简体中文](#趣光隐私政策)
+
+# Playglow Privacy Policy
+
+Effective date: September 30, 2026
+
+Developer: Li Endi
+
+Playglow ("the App") is built for playing, learning, and creating offline, with optional iCloud drawing sharing. This policy explains how the App handles information.
+
+## Core Features and Optional Sharing
+
+The core features don't require a developer account, show no ads, and don't track you across other apps or websites. Game records and drawing drafts stay on your device.
+
+## Usage Statistics and Crash Reports
+
+To learn which games and tools people enjoy, improve the membership purchase flow, and fix crashes, the App uses Firebase Analytics and Firebase Crashlytics from Google, which collect:
+
+Which game or tool you open and how long you stay; game starts, endings, scores, and completed levels; membership page views, subscription actions, and their results (plan, whether it's a free trial, transaction amount and currency, but no payment details); a random instance identifier generated within the App; device model, system version, App version, language, and an approximate country or city derived from your IP address; crash logs when the App crashes.
+
+This information doesn't include your name, email, Apple Account, photos, recordings, or drawings. It isn't linked to your identity, isn't used for advertising, and isn't used to track you across apps. The App doesn't access the advertising identifier (IDFA). The data is processed by Google and may be stored on servers outside your country or region. Statistics are kept for no more than 14 months, and crash logs for no more than 90 days.
+
+## iCloud Drawing Sharing (Draw for You)
+
+Only when you choose to use Draw for You does the App create a private shared canvas through Apple CloudKit. Both people need to be signed in to iCloud. When you create an invitation, the Apple Account email you enter for the other person is sent to Apple to find and invite that account; the App doesn't keep that email in its local drawing cache.
+
+When you tap Send, the selected drawing image is uploaded to the creator's iCloud private database, and the invited account is given read and write access. Either person can update the latest drawing on the shared canvas. When you tap the widget's "Got it ❤️" button, the response for that drawing is synced to the other person; the shared record contains the drawing identifier, the sender's role in the connection, and the response status. The App uses CloudKit account and share record identifiers, update times, and device push notifications for access control and syncing. It doesn't automatically upload draft strokes, game records, or your entire photo library. These cloud services are provided by Apple.
+
+To show drawings on the Home Screen, the App and its widget share the connection details and a cache of the latest drawing on the device. Disconnecting clears the local cache. If the creator disconnects, the shared canvas is deleted; if the invitee disconnects, they leave the share. The other person's offline device may keep showing the old cache until it next syncs, and images that were saved or captured can't be deleted remotely. Deleting the App doesn't guarantee that shared data in iCloud is deleted, so please disconnect before deleting the App.
+
+## Data Stored on Your Device
+
+Your game records, knowledge exploration progress, and unfinished drawings are stored only on your device so you can pick up where you left off. Deleting the App may remove this local data.
+
+## Photos Permission
+
+The App asks for "Add to Photos" permission only when you choose to save a drawing image or a stroke animation video to your photo library. This permission is used only to write the work you choose into your photo library. The App doesn't read your photos, and saving to Photos doesn't upload anything; a drawing is uploaded only if you separately send it with Draw for You.
+
+## Playglow Plus Subscriptions
+
+Playglow Plus is offered through Apple In-App Purchase as monthly and yearly auto-renewable subscriptions. Payment, renewal, free trials, and refunds are all handled by Apple, and the App doesn't collect or store your payment information. The App only reads from Apple whether a subscription is active, which plan it is, and when it expires, to show your membership status on your device; this isn't uploaded to the developer's servers. The plan and purchase results are sent to Firebase Analytics as anonymous statistics (see "Usage Statistics and Crash Reports"). You can manage or cancel your subscription at any time in iPhone Settings, under your Apple Account > Subscriptions.
+
+## Children's Privacy
+
+The core features don't require any personal information. Children using optional iCloud sharing should do so with a parent or guardian, and avoid including sensitive personal information in drawings.
+
+## Changes to This Policy
+
+If this policy changes materially, the effective date on this page will be updated.
+
+## Contact Us
+
+For privacy questions, please contact the developer, Li Endi, through the support channel shown on the App Store product page.
+
+---
+
 # 趣光隐私政策
 
 生效日期：2026 年 9 月 30 日
