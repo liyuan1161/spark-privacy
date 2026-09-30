@@ -4,7 +4,7 @@
 
 Effective date: September 30, 2026
 
-Developer: Li Endi
+Developer: Ledi
 
 Playglow ("the App") is built for playing, learning, and creating offline, with optional iCloud drawing sharing. This policy explains how the App handles information.
 
@@ -50,7 +50,7 @@ If this policy changes materially, the effective date on this page will be updat
 
 ## Contact Us
 
-For privacy questions, please contact the developer, Li Endi, through the support channel shown on the App Store product page.
+For privacy questions, please contact the developer, Ledi, through the support channel shown on the App Store product page.
 
 ---
 
@@ -58,7 +58,7 @@ For privacy questions, please contact the developer, Li Endi, through the suppor
 
 生效日期：2026 年 9 月 30 日
 
-开发者：李恩迪
+开发者：乐迪
 
 趣光（“本 App”）是一款以离线玩、学、创造为主，并提供可选 iCloud 画作共享的应用。本政策说明本 App 如何处理信息。
 
@@ -104,4 +104,4 @@ For privacy questions, please contact the developer, Li Endi, through the suppor
 
 ## 联系我们
 
-如有隐私问题，请通过 App Store Connect 产品页展示的技术支持渠道联系开发者李恩迪。
+如有隐私问题，请通过 App Store Connect 产品页展示的技术支持渠道联系开发者乐迪。
