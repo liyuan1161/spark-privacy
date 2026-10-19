@@ -4,7 +4,7 @@
 
 Last updated: October 19, 2026
 
-Developer: Ledi
+Developer: Ledi (乐迪)
 
 Murmur records your day on Apple Watch and helps you look back on it on iPhone. It has no server, no account, no ads, no analytics and no third-party SDKs. The developer collects nothing: recordings, transcripts, reviews and memories stay on your own Apple Watch and iPhone.
 
@@ -50,7 +50,7 @@ Murmur isn't directed at children under 13.
 If this policy changes, this page will be updated along with the date above.
 
 ## Contact
-Please open an issue at https://github.com/liyuan1161/spark-privacy/issues
+Email bulayunkeji@gmail.com
 
 ---
 
@@ -58,7 +58,7 @@ Please open an issue at https://github.com/liyuan1161/spark-privacy/issues
 
 最后更新：2026 年 10 月 19 日
 
-开发者：Ledi
+开发者：乐迪
 
 留声在 Apple Watch 上记录你的一天，并在 iPhone 上帮你回顾。它没有服务器、没有账号、没有广告、没有统计分析，也不使用任何第三方 SDK。开发者不收集任何数据：录音、转写、回顾和记忆只保存在你自己的 Apple Watch 和 iPhone 上。
 
@@ -104,4 +104,4 @@ Please open an issue at https://github.com/liyuan1161/spark-privacy/issues
 本政策如有变更，会更新此页面和上方的日期。
 
 ## 联系方式
-请在 GitHub 提交 issue：https://github.com/liyuan1161/spark-privacy/issues
+请发邮件至 bulayunkeji@gmail.com
