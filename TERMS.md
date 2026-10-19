@@ -4,7 +4,7 @@
 
 Effective date: October 1, 2026
 
-Developer: Ledi
+Developer: Ledi (乐迪)
 
 Welcome to Playglow ("the App"). Please read these terms carefully before using the App. **Clauses that exclude or limit the developer's liability, and other clauses that significantly affect your interests, are shown in bold. Please read them closely, especially "Health and Safety", "Limits of Measuring and Reference Tools", and "Disclaimer and Limitation of Liability".** By tapping "Agree and Continue" or continuing to use the App, you confirm that you have read, understood, and agree to these terms and the Playglow Privacy Policy. **If you don't agree with any part of these terms, please don't use the App.** Minors should read these terms with a parent or guardian and use the App under their guidance.
 
@@ -86,7 +86,7 @@ These terms are governed by the laws of the People's Republic of China (for the 
 
 ## 10. Contact Us
 
-If you have any questions about these terms, please contact the developer, Ledi, through the support channel shown on the App Store product page.
+If you have any questions about these terms, please email the developer, Ledi (乐迪), at bulayunkeji@gmail.com.
 
 ---
 
@@ -176,4 +176,4 @@ If you have any questions about these terms, please contact the developer, Ledi,
 
 ## 十、联系我们
 
-如对本协议有任何疑问，请通过 App Store 产品页展示的技术支持渠道联系开发者乐迪。
+如对本协议有任何疑问，请发邮件至 bulayunkeji@gmail.com 联系开发者乐迪。

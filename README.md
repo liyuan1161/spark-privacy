@@ -4,7 +4,7 @@
 
 Effective date: October 1, 2026
 
-Developer: Ledi
+Developer: Ledi (乐迪)
 
 Playglow ("the App") is built for playing, learning, and creating offline, with optional iCloud drawing sharing. This policy explains how the App handles information.
 
@@ -70,7 +70,7 @@ If this policy changes materially, the effective date on this page will be updat
 
 ## Contact Us
 
-For privacy questions, please contact the developer, Ledi, through the support channel shown on the App Store product page.
+For privacy questions, please email the developer, Ledi (乐迪), at bulayunkeji@gmail.com.
 
 ---
 
@@ -144,4 +144,4 @@ For privacy questions, please contact the developer, Ledi, through the support c
 
 ## 联系我们
 
-如有隐私问题，请通过 App Store Connect 产品页展示的技术支持渠道联系开发者乐迪。
+如有隐私问题，请发邮件至 bulayunkeji@gmail.com 联系开发者乐迪。

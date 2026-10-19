@@ -1,6 +1,8 @@
 # Emberfall Privacy Policy
 
-Last updated: October 18, 2026
+Last updated: October 19, 2026
+
+Developer: Ledi (乐迪)
 
 Emberfall is a single-player game. It has no account system and no ads. It uses Google's Firebase Analytics to collect anonymous usage statistics so we can improve the game. We do not collect your name, email, location, contacts, photos, camera or microphone data, and we do not track you across other companies' apps or websites.
 
@@ -24,13 +26,15 @@ The app does not knowingly collect personal information from anyone, including c
 If this policy changes, the new version will be posted at this address with a new date.
 
 ## Contact
-Please open an issue at https://github.com/liyuan1161/spark-privacy/issues
+Email bulayunkeji@gmail.com
 
 ---
 
 # 《残焰》隐私政策
 
-最后更新：2026 年 10 月 18 日
+最后更新：2026 年 10 月 19 日
+
+开发者：乐迪
 
 《残焰》是一款单机游戏，没有账号系统，没有广告。我们使用 Google 的 Firebase Analytics 收集匿名使用统计，用于改进游戏。我们不收集你的姓名、邮箱、位置、通讯录、照片，也不使用相机或麦克风，不会跨其他公司的 App 或网站跟踪你。
 
@@ -54,4 +58,4 @@ App 会使用设备的触感引擎，并播放在设备上实时合成的音效�
 如本政策有变更，会在此地址发布新版本并更新日期。
 
 ## 联系方式
-请在 GitHub 提交 issue：https://github.com/liyuan1161/spark-privacy/issues
+请发邮件至 bulayunkeji@gmail.com

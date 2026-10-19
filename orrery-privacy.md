@@ -1,6 +1,8 @@
 # Orrery Privacy Policy
 
-Last updated: October 18, 2026
+Last updated: October 19, 2026
+
+Developer: Ledi (乐迪)
 
 Orrery is a watch face app for Apple Watch. **It does not collect any data.** It has no account, no ads, no analytics, no tracking and makes no network requests.
 
@@ -17,13 +19,15 @@ Orrery does not knowingly collect personal information from anyone, including ch
 If this policy changes, a new version will be published at this address with an updated date.
 
 ## Contact
-Please open an issue on GitHub: https://github.com/liyuan1161/spark-privacy/issues
+Email bulayunkeji@gmail.com
 
 ---
 
 # 星盘 Orrery 隐私政策
 
-最后更新：2026 年 10 月 18 日
+最后更新：2026 年 10 月 19 日
+
+开发者：乐迪
 
 星盘是一款 Apple Watch 表盘 App。**它不收集任何数据。**没有账号、没有广告、没有统计分析、没有跟踪，也不进行任何网络请求。
 
@@ -40,4 +44,4 @@ Please open an issue on GitHub: https://github.com/liyuan1161/spark-privacy/issu
 如本政策有变更，会在此地址发布新版本并更新日期。
 
 ## 联系方式
-请在 GitHub 提交 issue：https://github.com/liyuan1161/spark-privacy/issues
+请发邮件至 bulayunkeji@gmail.com
