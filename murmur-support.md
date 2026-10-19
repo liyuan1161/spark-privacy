@@ -11,7 +11,7 @@ Murmur records your day on Apple Watch; your iPhone transcribes it on device, te
 - **Requirements**: iPhone with iOS 26 or later, paired with an Apple Watch with watchOS 26 or later.
 
 ## Contact
-Questions, bug reports and feedback: please open an issue at https://github.com/liyuan1161/spark-privacy/issues
+Questions, bug reports and feedback: email bulayunkeji@gmail.com
 
 Privacy policy: see `murmur-privacy.md` in this repository.
 
@@ -30,4 +30,4 @@ Privacy policy: see `murmur-privacy.md` in this repository.
 - **要求**：iOS 26 及以上的 iPhone，配对 watchOS 26 及以上的 Apple Watch。
 
 ## 联系方式
-问题、Bug 反馈和建议请在 https://github.com/liyuan1161/spark-privacy/issues 提交 issue。
+问题、Bug 反馈和建议请发邮件至 bulayunkeji@gmail.com。
