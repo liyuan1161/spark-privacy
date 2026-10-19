@@ -2,7 +2,7 @@
 
 # Murmur Privacy Policy
 
-Last updated: October 19, 2026
+Last updated: October 20, 2026
 
 Developer: Ledi (乐迪)
 
@@ -15,6 +15,7 @@ Murmur records your day on Apple Watch and helps you look back on it on iPhone. 
 - **Voiceprints.** A set of numbers describing how each voice sounds, computed on your iPhone by a model built into the app, used only to tell speakers apart, and kept only on that iPhone. They are not used to identify who anyone is.
 - **Heart rate.** Read from Health, only with your permission, to show it beside the day's transcript. Murmur never writes to Health.
 - **Daily reviews and memories.** Made by Apple's on-device model by default, and kept only on your iPhone. You can edit, switch off or delete any memory.
+- **Location, only if you add quiet places.** Quiet places are optional places, such as a clinic, where your Apple Watch stops recording. When you add one, Murmur reads your iPhone's current location once, with your permission, and saves that point, a name and a radius on the iPhone. With "Always" permission, iOS tells Murmur when you arrive at or leave one of those places, even while it's closed. Murmur keeps no history of where you've been, and your location never leaves the iPhone: the watch is told only the place's name, so it can stop recording. Delete a quiet place, or turn off location for Murmur in Settings, at any time.
 
 Original audio is excluded from iCloud backup.
 
@@ -56,7 +57,7 @@ Email bulayunkeji@gmail.com
 
 # 留声隐私政策
 
-最后更新：2026 年 10 月 19 日
+最后更新：2026 年 10 月 20 日
 
 开发者：乐迪
 
@@ -69,6 +70,7 @@ Email bulayunkeji@gmail.com
 - **声纹。** 描述每个声音特征的一组数字，由 App 内置的模型在 iPhone 上计算，只用来分辨不同的说话人，只保存在这台 iPhone 上，不用于识别任何人的身份。
 - **心率。** 在你允许后从"健康"读取，用来在当天的转写旁显示心率。留声从不写入"健康"。
 - **每日回顾和记忆。** 默认由 Apple 的本机模型生成，只保存在你的 iPhone 上。任何一条记忆你都可以修改、停用或删除。
+- **位置（仅在你添加"不录音的地点"时）。** "不录音的地点"是可选功能，比如诊所，到了那里 Apple Watch 就停止录音。添加时，留声在你允许后读取一次 iPhone 当前的位置，把这个点、名称和范围保存在 iPhone 上。如果你允许"始终"使用位置，iOS 会在你到达或离开这些地点时通知留声，即使留声没有打开。留声不记录你去过哪里，你的位置也不会离开这台 iPhone：手表只会收到地点的名称，用来停止录音。你随时可以删除地点，或在"设置"里关闭留声的位置权限。
 
 原声音频不进入 iCloud 备份。
 
