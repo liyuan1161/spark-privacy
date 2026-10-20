@@ -6,7 +6,7 @@ Last updated: October 20, 2026
 
 Developer: Ledi (乐迪)
 
-Wristape records your day on Apple Watch and helps you look back on it on iPhone. It has no server of its own, no account and no ads. Recordings, transcripts, reviews and memories stay on your own Apple Watch and iPhone; the developer never receives them. The only thing the app sends the developer is anonymous usage statistics, described below.
+Wristape records your day on Apple Watch and helps you look back on it on iPhone. It has no server of its own, no account and no ads. Recordings, transcripts, reviews and memories stay on your own Apple Watch and iPhone; the developer never receives them. The only things the app sends the developer are anonymous usage statistics and crash reports, described below.
 
 ## What Wristape handles, and where
 
@@ -23,7 +23,7 @@ Original audio is excluded from iCloud backup.
 
 To learn which features are used and whether they work, the iPhone app sends anonymous events through Google Firebase Analytics: for example that a recording arrived from the watch (with its length in minutes and how many moments were marked), that a day was reviewed or a question answered (with which kind of model, and how many sentences the answer cited), that a backup was made (with or without audio and a password), or that something failed (with the kind of error only).
 
-These events never contain recordings, transcripts, names, memories, your questions or their answers, places, or the text of error messages. The app doesn't collect the advertising identifier or the identifier for vendor, doesn't turn on advertising features, and doesn't track you across apps or websites. Firebase assigns the installation a random identifier that isn't linked to your identity; it also receives your device's model, system version, language and approximate region (from the network address), as all apps using it do. Google processes the data under its own privacy policy (https://policies.google.com/privacy). Deleting the app removes the identifier.
+These events never contain recordings, transcripts, names, memories, your questions or their answers, places, or the text of error messages. The app doesn't collect the advertising identifier or the identifier for vendor, doesn't turn on advertising features, and doesn't track you across apps or websites. Firebase assigns the installation a random identifier that isn't linked to your identity; it also receives your device's model, system version, language and approximate region (from the network address), as all apps using it do. If the app crashes, a crash report is sent through Google Firebase Crashlytics: where in the app's code it happened, the device model, system version and free memory and storage. It contains nothing you recorded or wrote. Google processes the data under its own privacy policy (https://policies.google.com/privacy). Deleting the app removes the identifier.
 
 ## Cloud AI you choose yourself
 
@@ -67,7 +67,7 @@ Email bulayunkeji@gmail.com
 
 开发者：乐迪
 
-腕声在 Apple Watch 上记录你的一天，并在 iPhone 上帮你回顾。它没有自己的服务器，没有账号，也没有广告。录音、转写、回顾和记忆只保存在你自己的 Apple Watch 和 iPhone 上，开发者永远拿不到。App 发给开发者的唯一信息是匿名使用统计，详见下文。
+腕声在 Apple Watch 上记录你的一天，并在 iPhone 上帮你回顾。它没有自己的服务器，没有账号，也没有广告。录音、转写、回顾和记忆只保存在你自己的 Apple Watch 和 iPhone 上，开发者永远拿不到。App 发给开发者的只有匿名使用统计和崩溃报告，详见下文。
 
 ## 腕声处理哪些信息，在哪里处理
 
@@ -84,7 +84,7 @@ Email bulayunkeji@gmail.com
 
 为了了解哪些功能有人用、是否正常工作，iPhone 上的 App 会通过 Google Firebase Analytics 发送匿名事件。例如：收到了一段手表录音（附带时长分钟数和标记了几处）、回顾了一天或回答了一个问题（附带用的是哪类模型、回答引用了几句原话）、做了一次备份（是否包含原声、是否设了密码），或者某个功能出错（只附带错误的类型）。
 
-这些事件从不包含录音、转写、名字、记忆、你的问题和回答、地点，也不包含错误信息的文字。App 不收集广告标识符和供应商标识符，不开启任何广告功能，也不跨 App 或网站追踪你。Firebase 会给这次安装分配一个与你身份无关的随机标识符，并和所有使用它的 App 一样，收到设备型号、系统版本、语言和大致地区（根据网络地址推断）。Google 按其隐私政策处理这些数据（https://policies.google.com/privacy）。删除 App 即会删除这个标识符。
+这些事件从不包含录音、转写、名字、记忆、你的问题和回答、地点，也不包含错误信息的文字。App 不收集广告标识符和供应商标识符，不开启任何广告功能，也不跨 App 或网站追踪你。Firebase 会给这次安装分配一个与你身份无关的随机标识符，并和所有使用它的 App 一样，收到设备型号、系统版本、语言和大致地区（根据网络地址推断）。如果 App 崩溃，会通过 Google Firebase Crashlytics 发送崩溃报告：崩溃发生在 App 代码的什么位置、设备型号、系统版本，以及剩余内存和存储空间。报告里没有任何你录下或写下的内容。Google 按其隐私政策处理这些数据（https://policies.google.com/privacy）。删除 App 即会删除这个标识符。
 
 ## 你自己选择的云端 AI
 
