@@ -16,6 +16,7 @@ Wristape records your day on Apple Watch and helps you look back on it on iPhone
 - **Heart rate.** Read from Health, only with your permission, to show it beside the day's transcript. Wristape never writes to Health.
 - **Daily reviews and memories.** Made by Apple's on-device model by default, and kept only on your iPhone. You can edit, switch off or delete any memory.
 - **Location, only if you add quiet places.** Quiet places are optional places, such as a clinic, where your Apple Watch stops recording. When you add one, Wristape reads your iPhone's current location once, with your permission, and saves that point, a name and a radius on the iPhone. With "Always" permission, iOS tells Wristape when you arrive at or leave one of those places, even while it's closed. Wristape keeps no history of where you've been, and your location never leaves the iPhone: the watch is told only the place's name, so it can stop recording. Delete a quiet place, or turn off location for Wristape in Settings, at any time.
+- **Calendar, only if you turn on briefings.** With "Brief me before meeting someone" on and your permission, Wristape reads upcoming events on this iPhone to find meetings with people you've named, and reminds you half an hour before of what's still open between you. Nothing from your calendar is stored or leaves the iPhone. Turn it off in Settings, or remove calendar access in iOS Settings, at any time.
 
 Original audio is excluded from iCloud backup.
 
@@ -77,6 +78,7 @@ Email bulayunkeji@gmail.com
 - **心率。** 在你允许后从"健康"读取，用来在当天的转写旁显示心率。腕声从不写入"健康"。
 - **每日回顾和记忆。** 默认由 Apple 的本机模型生成，只保存在你的 iPhone 上。任何一条记忆你都可以修改、停用或删除。
 - **位置（仅在你添加"不录音的地点"时）。** "不录音的地点"是可选功能，比如诊所，到了那里 Apple Watch 就停止录音。添加时，腕声在你允许后读取一次 iPhone 当前的位置，把这个点、名称和范围保存在 iPhone 上。如果你允许"始终"使用位置，iOS 会在你到达或离开这些地点时通知腕声，即使腕声没有打开。腕声不记录你去过哪里，你的位置也不会离开这台 iPhone：手表只会收到地点的名称，用来停止录音。你随时可以删除地点，或在"设置"里关闭腕声的位置权限。
+- **日历（仅在你打开见面前提醒时）。** 打开"见面前提醒我聊过什么"并允许后，腕声会在这台 iPhone 上读取即将到来的日程，找出和你命名过的人的会面，提前半小时提醒你们之间还有哪些事没完成。日历内容不会被保存，也不会离开这台 iPhone。你随时可以在设置里关掉，或在 iOS 设置里取消日历权限。
 
 原声音频不进入 iCloud 备份。
 
