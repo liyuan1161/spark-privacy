@@ -28,6 +28,8 @@ To learn which features are used and whether they work, the iPhone app sends ano
 
 These events never contain recordings, transcripts, names, memories, your questions or their answers, places, or the text of error messages. The app doesn't collect the advertising identifier or the identifier for vendor, doesn't turn on advertising features, and doesn't track you across apps or websites. Firebase assigns the installation a random identifier that isn't linked to your identity; it also receives your device's model, system version, language and approximate region (from the network address), as all apps using it do. If the app crashes, a crash report is sent through Google Firebase Crashlytics: where in the app's code it happened, the device model, system version and free memory and storage. It contains nothing you recorded or wrote. Google processes the data under its own privacy policy (https://policies.google.com/privacy). Deleting the app removes the identifier.
 
+To tell you when a newer version is out, the iPhone app asks the App Store, at most once a day, which version of Wristape is current; the request names only the app, and goes to Apple. It also reads one setting from Google Firebase Remote Config, the oldest version still allowed to run, so that a version with a serious problem can ask you to update; this uses the same random installation identifier as Analytics and sends nothing else.
+
 ## Cloud AI you choose yourself
 
 In Settings you can switch to a cloud model, such as DeepSeek, Qwen, OpenAI or another compatible service, using your own API key. If you do:
@@ -90,6 +92,8 @@ Email bulayunkeji@gmail.com
 为了了解哪些功能有人用、是否正常工作，iPhone 上的 App 会通过 Google Firebase Analytics 发送匿名事件。例如：收到了一段手表录音（附带时长分钟数和标记了几处）、回顾了一天或回答了一个问题（附带用的是哪类模型、回答引用了几句原话）、做了一次备份（是否包含原声、是否设了密码），或者某个功能出错（只附带错误的类型）。
 
 这些事件从不包含录音、转写、名字、记忆、你的问题和回答、地点，也不包含错误信息的文字。App 不收集广告标识符和供应商标识符，不开启任何广告功能，也不跨 App 或网站追踪你。Firebase 会给这次安装分配一个与你身份无关的随机标识符，并和所有使用它的 App 一样，收到设备型号、系统版本、语言和大致地区（根据网络地址推断）。如果 App 崩溃，会通过 Google Firebase Crashlytics 发送崩溃报告：崩溃发生在 App 代码的什么位置、设备型号、系统版本，以及剩余内存和存储空间。报告里没有任何你录下或写下的内容。Google 按其隐私政策处理这些数据（https://policies.google.com/privacy）。删除 App 即会删除这个标识符。
+
+为了在有新版本时告诉你，iPhone 上的 App 每天最多一次向 App Store 查询腕声当前的版本号；请求里只有 App 本身的标识，发给 Apple。App 还会从 Google Firebase Remote Config 读取一个设置：仍可使用的最低版本，以便某个版本有严重问题时提示你更新；这用的是和 Analytics 相同的随机安装标识符，不发送任何其他内容。
 
 ## 你自己选择的云端 AI
 
