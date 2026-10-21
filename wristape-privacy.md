@@ -4,7 +4,7 @@
 
 Last updated: October 20, 2026
 
-Developer: Ledi (乐迪)
+Developer: Jorn
 
 Wristape records your day on Apple Watch and helps you look back on it on iPhone. It has no server of its own, no account and no ads. Recordings, transcripts, reviews and memories stay on your own Apple Watch and iPhone; the developer never receives them. The only things the app sends the developer are anonymous usage statistics and crash reports, described below.
 
@@ -68,7 +68,7 @@ Email bulayunkeji@gmail.com
 
 最后更新：2026 年 10 月 20 日
 
-开发者：乐迪
+开发者：Jorn
 
 腕声在 Apple Watch 上记录你的一天，并在 iPhone 上帮你回顾。它没有自己的服务器，没有账号，也没有广告。录音、转写、回顾和记忆只保存在你自己的 Apple Watch 和 iPhone 上，开发者永远拿不到。App 发给开发者的只有匿名使用统计和崩溃报告，详见下文。
 
