@@ -6,11 +6,11 @@ Last updated: October 20, 2026
 
 Developer: Jorn
 
-Wristape records your day on Apple Watch and helps you look back on it on iPhone. It has no server of its own, no account and no ads. Recordings, transcripts, reviews and memories stay on your own Apple Watch and iPhone; the developer never receives them. The only things the app sends the developer are anonymous usage statistics and crash reports, described below.
+Wristape records your day on Apple Watch, and meetings on iPhone too, and helps you look back on it on iPhone. It has no server of its own, no account and no ads. Recordings, transcripts, reviews and memories stay on your own Apple Watch and iPhone; the developer never receives them. The only things the app sends the developer are anonymous usage statistics and crash reports, described below.
 
 ## What Wristape handles, and where
 
-- **Microphone recordings.** Recorded on Apple Watch only when you start recording, sent to your iPhone over the system's watch connection, and deleted from the watch once they arrive.
+- **Microphone recordings.** Recorded only when you start recording: on Apple Watch, sent to your iPhone over the system's watch connection and deleted from the watch once they arrive; or, for a meeting, on the iPhone itself, kept there directly. While the iPhone records, the system's microphone indicator, a red bar in Wristape and a Live Activity show it, and Stop ends it.
 - **Transcripts.** Made on your iPhone by Apple's on-device speech recognition, and kept only on that iPhone.
 - **Voiceprints.** A set of numbers describing how each voice sounds, computed on your iPhone by a model built into the app, used only to tell speakers apart, and kept only on that iPhone. They are not used to identify who anyone is.
 - **Heart rate.** Read from Health, only with your permission, to show it beside the day's transcript. Wristape never writes to Health.
@@ -72,11 +72,11 @@ Email bulayunkeji@gmail.com
 
 开发者：Jorn
 
-腕声在 Apple Watch 上记录你的一天，并在 iPhone 上帮你回顾。它没有自己的服务器，没有账号，也没有广告。录音、转写、回顾和记忆只保存在你自己的 Apple Watch 和 iPhone 上，开发者永远拿不到。App 发给开发者的只有匿名使用统计和崩溃报告，详见下文。
+腕声在 Apple Watch 上记录你的一天（开会时也可以用 iPhone 录），并在 iPhone 上帮你回顾。它没有自己的服务器，没有账号，也没有广告。录音、转写、回顾和记忆只保存在你自己的 Apple Watch 和 iPhone 上，开发者永远拿不到。App 发给开发者的只有匿名使用统计和崩溃报告，详见下文。
 
 ## 腕声处理哪些信息，在哪里处理
 
-- **麦克风录音。** 只有在你开始录音时才会在 Apple Watch 上录制，通过系统的手表连接传到你的 iPhone，送达后从手表上删除。
+- **麦克风录音。** 只有在你开始录音时才会录制：在 Apple Watch 上录的，通过系统的手表连接传到你的 iPhone，送达后从手表上删除；开会时也可以直接在 iPhone 上录，直接保存在 iPhone 上。iPhone 录音时，系统的麦克风指示、腕声里的红色录音条和实时活动都会显示，点「停止」即结束。
 - **转写文字。** 由 Apple 的本机语音识别在你的 iPhone 上生成，只保存在这台 iPhone 上。
 - **声纹。** 描述每个声音特征的一组数字，由 App 内置的模型在 iPhone 上计算，只用来分辨不同的说话人，只保存在这台 iPhone 上，不用于识别任何人的身份。
 - **心率。** 在你允许后从"健康"读取，用来在当天的转写旁显示心率。腕声从不写入"健康"。
