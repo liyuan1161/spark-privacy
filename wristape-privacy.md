@@ -2,7 +2,7 @@
 
 # Wristape Privacy Policy
 
-Last updated: October 20, 2026
+Last updated: October 24, 2026
 
 Developer: Jorn
 
@@ -23,6 +23,8 @@ Wristape records your day on Apple Watch, and meetings on iPhone too, and helps 
 Original audio is excluded from iCloud backup.
 
 ## Anonymous usage statistics
+
+Nothing below is sent until you agree to this policy and the Terms of Use (https://github.com/liyuan1161/spark-privacy/blob/main/wristape-terms.md), the first thing the app asks; Wristape can't record before that either.
 
 To learn which features are used and whether they work, the iPhone app sends anonymous events through Google Firebase Analytics: for example that a recording arrived from the watch (with its length in minutes and how many moments were marked), that a day was reviewed or a question answered (with which kind of model, and how many sentences the answer cited), that a backup was made (with or without audio and a password), or that something failed (with the kind of error only).
 
@@ -59,7 +61,7 @@ Wristape isn't directed at children under 13.
 
 ## Changes
 
-If this policy changes, this page will be updated along with the date above.
+If this policy changes, this page will be updated along with the date above. When it changes in a way that matters, the app asks you to agree again before you go on using it.
 
 ## Contact
 Email bulayunkeji@gmail.com
@@ -68,7 +70,7 @@ Email bulayunkeji@gmail.com
 
 # 腕声隐私政策
 
-最后更新：2026 年 10 月 20 日
+最后更新：2026 年 10 月 24 日
 
 开发者：Jorn
 
@@ -88,6 +90,8 @@ Email bulayunkeji@gmail.com
 原声音频不进入 iCloud 备份。
 
 ## 匿名使用统计
+
+在你同意本政策和《使用条款》（https://github.com/liyuan1161/spark-privacy/blob/main/wristape-terms.md）之前，下文所述的任何内容都不会发送；App 打开后首先就会请你同意，在此之前也无法录音。
 
 为了了解哪些功能有人用、是否正常工作，iPhone 上的 App 会通过 Google Firebase Analytics 发送匿名事件。例如：收到了一段手表录音（附带时长分钟数和标记了几处）、回顾了一天或回答了一个问题（附带用的是哪类模型、回答引用了几句原话）、做了一次备份（是否包含原声、是否设了密码），或者某个功能出错（只附带错误的类型）。
 
@@ -124,7 +128,7 @@ Email bulayunkeji@gmail.com
 
 ## 政策变更
 
-本政策如有变更，会更新此页面和上方的日期。
+本政策如有变更，会更新此页面和上方的日期。如有实质性变更，App 会在你继续使用之前请你再次同意。
 
 ## 联系方式
 请发邮件至 bulayunkeji@gmail.com
