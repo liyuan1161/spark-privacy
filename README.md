@@ -2,9 +2,9 @@
 
 # Playglow Privacy Policy
 
-Effective date: October 1, 2026
+Effective date: October 27, 2026
 
-Developer: Ledi (乐迪)
+Developer: Ledi
 
 Playglow ("the App") is built for playing, learning, and creating offline, with optional iCloud drawing sharing. This policy explains how the App handles information.
 
@@ -34,19 +34,23 @@ Your game records, knowledge exploration progress, and unfinished drawings are s
 
 ## Photos Permission
 
-The App asks for "Add to Photos" permission only when you choose to save a drawing image or a stroke animation video to your photo library. This permission is used only to write the work you choose into your photo library. The App doesn't read your photos, and saving to Photos doesn't upload anything; a drawing is uploaded only if you separately send it with Draw for You.
+The App asks for "Add to Photos" permission only when you choose to save a drawing image, a stroke animation video, or a check-in card or wall to your photo library. This permission is used only to write the work you choose into your photo library. The App doesn't browse your photo library: it only sees a picture you pick yourself in the system photo picker (to cut out a sticker, read a code, or make a check-in card), and processes it on your device. Saving to Photos doesn't upload anything; a drawing is uploaded only if you separately send it with Draw for You.
 
 ## Camera and Microphone
 
 The App uses the camera or microphone only while you're using a feature that needs it. Images and sound are processed on your device in real time. They are never uploaded to the developer's or any third party's servers, and never sent to Firebase.
 
-The camera is used to: pick colors from the scene in Color Lab; take a photo and cut out the subject on your device in Sticker Maker; read scene brightness and exposure settings in Light Meter; follow your hand for air gestures in Knowledge Blocks, Free Draw, and Rhythm Flash; and power eye control (see "Face Data"). Apart from stickers you choose to save to your sticker collection, which stay on your device, the App doesn't keep camera images.
+The camera is used to: pick colors from the scene in Color Lab; take a photo and cut out the subject on your device when making a sticker in Rainbow Brush; read scene brightness and exposure settings in Light Meter; read QR codes and barcodes in Scanner; take the photo for a check-in card in Check-in Cards; take photos and videos with the front and back cameras at once in Dual Camera, saved only to your photo library; follow your hand for air gestures in Knowledge Blocks and Rhythm Flash; and power eye control (see "Face Data"). Apart from stickers you choose to save to your sticker collection, which stay on your device, the App doesn't keep camera images. Scanner keeps the text of your last 50 scanned codes on your device so you can find them again (Wi-Fi passwords are removed first), and you can delete them at any time. Check-in Cards keeps the photos and short notes you check in with on your device only (in the App's own storage, not your photo library), so it can count streaks and build your monthly wall; deleting a check-in deletes its photo.
 
-The microphone is used to: measure loudness in real time in Sound Meter, Shout Squad, and Sense Pilot, and recognize nearby sounds on your device in Sound Detective, none of which record audio; and record a short clip in Voice Changer to play back with effects. That clip is stored only on your device and is deleted when you leave the page. A sticker or voice clip is handed to another app only when you tap Share and choose that app.
+The microphone is used to: measure loudness in real time in Sound Meter and Little Fire Hero, and recognize nearby sounds on your device in Sound Detective, none of which record audio; and record a short clip in Voice Changer to play back with effects. That clip is stored only on your device and is deleted when you leave the page. A sticker or voice clip is handed to another app only when you tap Share and choose that app.
 
 ## Face Data (TrueDepth Camera and ARKit Face Tracking)
 
-**What is collected:** Only when you turn on eye control in Knowledge Blocks or Big Fish, or start a round of Sense Pilot, does the App use the TrueDepth camera through Apple's ARKit face tracking (on devices without TrueDepth, the front camera). The App reads only two kinds of values: where you are looking (ARKit's gaze point) and how closed each eye is. It immediately turns them into "looking left, center, or right" and "eyes closed or open". The App doesn't read or store face images, video, depth maps, face meshes, or any other face geometry.
+**Dual Camera's automatic beauty:** Dual Camera uses Apple's Vision framework on your device to find where faces and their features (eyes, brows, nose and mouth) are in the picture, only to smooth and brighten the skin while keeping the features sharp. These positions are used in memory for the current frame and replaced by the next one; they aren't used to identify or authenticate you, and are never stored, uploaded, or shared. Only the photos and videos you take are saved, to your photo library.
+
+The rest of this section covers the face data used by eye control.
+
+**What is collected:** Only when you turn on eye control in Knowledge Blocks or Big Fish does the App use the TrueDepth camera through Apple's ARKit face tracking (on devices without TrueDepth, the front camera). The App reads only two kinds of values: where you are looking (ARKit's gaze point) and how closed each eye is. It immediately turns them into "looking left, center, or right" and "eyes closed or open". The App doesn't read or store face images, video, depth maps, face meshes, or any other face geometry.
 
 **How it's used:** Only to control those games in real time, such as moving and rotating blocks, steering the fish toward where you look, and raising a shield when you close your eyes. Face data isn't used to identify or authenticate you, and isn't used for advertising, marketing, analytics, profiling, or tracking.
 
@@ -70,13 +74,11 @@ If this policy changes materially, the effective date on this page will be updat
 
 ## Contact Us
 
-For privacy questions, please email the developer, Ledi (乐迪), at bulayunkeji@gmail.com.
-
----
+For privacy questions, please contact the developer, Ledi, through the support channel shown on the App Store product page.
 
 # 趣光隐私政策
 
-生效日期：2026 年 10 月 1 日
+生效日期：2026 年 10 月 27 日
 
 开发者：乐迪
 
@@ -108,19 +110,23 @@ For privacy questions, please email the developer, Ledi (乐迪), at bulayunkeji
 
 ## 照片权限
 
-仅当你主动选择将画作图片或笔迹动画视频保存到系统相册时，本 App 会请求“添加到照片”权限。该权限只用于把你选择的作品写入系统照片图库；本 App 不会读取你的照片，不会因为保存到相册而上传作品；只有另行使用「画给你」发送时才上传所选画作。
+仅当你主动选择将画作图片、笔迹动画视频或打卡卡片、打卡墙保存到系统相册时，本 App 会请求“添加到照片”权限。该权限只用于把你选择的作品写入系统照片图库；本 App 不会浏览你的相册，只会读取你在系统照片选择器中主动选中的那张图片（用于抠图做贴纸、识别二维码或制作打卡卡片），并在本机处理；保存到相册不会上传作品；只有另行使用「画给你」发送时才上传所选画作。
 
 ## 相机与麦克风
 
 本 App 只在你打开相关功能时使用相机或麦克风。画面和声音都在本机实时处理，不会上传到开发者或任何第三方的服务器，也不会发送给 Firebase。
 
-相机用于：「色彩实验室」识别画面颜色；「抠图贴纸」拍照并在本机抠出主体；「测光表」读取画面亮度和曝光参数；「方块消除」「自由画画」「节奏闪击」的隔空手势识别手的位置；以及眼控（见“面部数据”）。除了你主动保存到贴纸收藏的贴纸图片保存在本机外，本 App 不保存相机画面。
+相机用于：「色彩实验室」识别画面颜色；「彩虹画笔」抠图做贴纸时拍照并在本机抠出主体；「测光表」读取画面亮度和曝光参数；「扫一扫」识别二维码和条形码；「打卡卡片」拍下打卡照片；「双镜头相机」同时用前后摄像头拍照和录像，拍好的照片和视频只保存到你的系统相册；「方块消除」「节奏闪击」的隔空手势识别手的位置；以及眼控（见“面部数据”）。除了你主动保存到贴纸收藏的贴纸图片保存在本机外，本 App 不保存相机画面。「扫一扫」会在本机保存最近 50 条扫码内容的文字，方便你再次查看（Wi-Fi 密码会先被去掉），你可以随时删除。「打卡卡片」会把你打卡用的照片和简短文字只保存在本机（App 自己的存储空间里，不会存进系统相册），用来计算连续天数和生成月度打卡墙；删除一条打卡会同时删除它的照片。
 
-麦克风用于：「分贝计」「大嗓门消防队」「三感星航」实时测量音量，「声音侦探」在本机识别周围的声音，这些功能都不录音；「变声器」录下一小段声音用于变声回放，录音只保存在本机，离开页面即删除。只有你主动点击分享时，所选贴纸或变声音频才会交给你选择的 App。
+麦克风用于：「分贝计」「消防小英雄」实时测量音量，「声音侦探」在本机识别周围的声音，这些功能都不录音；「变声器」录下一小段声音用于变声回放，录音只保存在本机，离开页面即删除。只有你主动点击分享时，所选贴纸或变声音频才会交给你选择的 App。
 
 ## 面部数据（原深感摄像头与 ARKit 面部追踪）
 
-**收集什么**：只有你在「方块消除」或「大鱼吃小鱼」中打开眼控，或开始一局「三感星航」时，本 App 才通过 Apple ARKit 面部追踪使用原深感（TrueDepth）摄像头（不支持原深感的设备使用前置摄像头）。本 App 只读取两类数值：视线方向（ARKit 提供的注视点）和左右眼的闭眼程度，并立即换算成“向左、居中或向右看”和“是否闭眼”。本 App 不读取、不保存面部图像、视频、深度图、面部网格或其他面部几何数据。
+**双镜头相机的自动美颜**：「双镜头相机」用 Apple Vision 框架在本机找出画面中人脸的位置和五官轮廓（眼睛、眉毛、鼻子、嘴巴），只用来给脸部皮肤磨皮、提亮，同时让五官保持清晰。这些位置数据只在内存里用于当前画面，随即被下一帧覆盖；不用于识别或验证身份，不保存、不上传，也不与任何人共享。只有拍下的照片和视频会按你的操作保存到系统相册。
+
+以下各项说明眼控使用的面部数据。
+
+**收集什么**：只有你在「方块消除」或「大鱼吃小鱼」中打开眼控时，本 App 才通过 Apple ARKit 面部追踪使用原深感（TrueDepth）摄像头（不支持原深感的设备使用前置摄像头）。本 App 只读取两类数值：视线方向（ARKit 提供的注视点）和左右眼的闭眼程度，并立即换算成“向左、居中或向右看”和“是否闭眼”。本 App 不读取、不保存面部图像、视频、深度图、面部网格或其他面部几何数据。
 
 **用途**：仅用于上述游戏的实时操控，例如移动和旋转方块、让小鱼游向你看的方向、闭眼开启护盾。面部数据不用于识别或验证身份，不用于广告、营销、数据分析或用户画像，也不用于跟踪。
 
@@ -144,4 +150,4 @@ For privacy questions, please email the developer, Ledi (乐迪), at bulayunkeji
 
 ## 联系我们
 
-如有隐私问题，请发邮件至 bulayunkeji@gmail.com 联系开发者乐迪。
+如有隐私问题，请通过 App Store Connect 产品页展示的技术支持渠道联系开发者乐迪。
